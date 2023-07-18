@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920996391773",
+    "project_id": "destmadb",
+    "storage_bucket": "destmadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920996391773:android:4456ea976529c1ea3e16b4",
+        "android_client_info": {
+          "package_name": "com.project.destma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920996391773-4lnq2j94nvnpc05q2pad40mtihjfs1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjZFvQrE0LSlgwOt2u4duwM45q8pdIVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920996391773-4lnq2j94nvnpc05q2pad40mtihjfs1va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
